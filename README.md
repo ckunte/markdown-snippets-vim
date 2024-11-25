@@ -1,6 +1,6 @@
 # Markdown snippets for Vim and Neovim
 
-This repository contains a couple of snippets that reduces the tedium of adding html blocks to a minimum.
+This repository contains a couple of snippets (used for a blog) that reduces the tedium of adding html blocks to a minimum.
 
 ## Requirements
 
