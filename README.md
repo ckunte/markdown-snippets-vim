@@ -15,6 +15,7 @@ Add the following to `.vimrc` file (for vim-plug manager), reload, and install t
 ```vim
 call plug#begin()
 
+Plug 'sirver/ultisnips'
 Plug 'ckunte/markdown-snippets-vim'
 
 call plug#end()
